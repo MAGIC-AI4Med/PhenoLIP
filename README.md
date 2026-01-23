@@ -18,14 +18,15 @@ PhenoLIP: Integrating Phenotype Ontology Knowledge into Medical Vision–Languag
   <a href="https://huggingface.co/datasets/byrLLCC/RadRBench-CXR"> 🐱 RadRBench </a> |
 </h4>
 
-<!-- **Authors:** -->
 
-**Cheng Liang`<sup>`1,2 `</sup>`, Chaoyi Wu`<sup>`1,2 `</sup>`,Weike Zhao`<sup>`1,2 `</sup>`,  Ya Zhang`<sup>`1,2`</sup>`, Yanfeng Wang`<sup>`1,2`</sup>`, Weidi Xie`<sup>`1,2`</sup>`**_
+<!-- **Authors:** -->
+_**Cheng Liang<sup>1,2 </sup>, Chaoyi Wu<sup>1,2 </sup>,Weike Zhao<sup>1,2 </sup>, Ya Zhang<sup>1,2</sup>, Yanfeng Wang<sup>1,2</sup>, Weidi Xie<sup>1,2</sup>**_
+
 
 <!-- **Affiliations:** -->
 
-_`<sup>`1`</sup>` Shanghai Jiao Tong University,
-`<sup>`2`</sup>` Shanghai AI Laboratory._
+_<sup>1</sup> Shanghai Jiao Tong University,
+<sup>2</sup> Shanghai AI Laboratory._
 
 </div>
 
