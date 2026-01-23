@@ -17,12 +17,10 @@ PhenoLIP: Integrating Phenotype Ontology Knowledge into Medical Vision–Languag
 
 <!-- **Authors:** -->
 
-_**Cheng Liang`<sup>`1,2 `</sup>`, Chaoyi Wu`<sup>`1,2 `</sup>`,Weike Zhao`<sup>`1,2 `</sup>`, Ya Zhang`<sup>`1,2`</sup>`, Yanfeng Wang`<sup>`1,2`</sup>`, Weidi Xie`<sup>`1,2`</sup>`**_
+<em><strong>Cheng Liang<sup>1,2</sup>, Chaoyi Wu<sup>1,2</sup>, Weike Zhao<sup>1,2</sup>, Ya Zhang<sup>1,2</sup>, Yanfeng Wang<sup>1,2</sup>, Weidi Xie<sup>1,2</sup></strong></em>
 
-<!-- **Affiliations:** -->
-
-_`<sup>`1`</sup>` Shanghai Jiao Tong University,
-`<sup>`2`</sup>` Shanghai AI Laboratory._
+<em><sup>1</sup> Shanghai Jiao Tong University,
+<sup>2</sup> Shanghai AI Laboratory.</em>
 
 </div>
 
