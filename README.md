@@ -10,14 +10,14 @@ PhenoLIP: Integrating Phenotype Ontology Knowledge into Medical Vision–Languag
 <img src="https://img.shields.io/badge/License-Apache_2.0-green.svg" alt="License">
 
 <h4> |<a href="https://arxiv.org/pdf/2504.20930?"> 📑 Paper </a> |
-<a href="https://github.com/MAGIC-AI4Med/ChestX-Reasoner"> 🐱 Github Repo </a> |
-<a href="https://huggingface.co/byrLLCC/ChestX-Reasoner"> 🐱 PhenoLIP </a> |
+<a href="https://github.com/MAGIC-AI4Med/PhenoLIP"> 🐱 Github Repo </a> |
+<a href="https://www.modelscope.cn/models/lcsjtu/PhenoLIP"> 🐱 PhenoLIP </a> |
   <a href="https://www.modelscope.cn/datasets/lcsjtu/PhenoBench"> 🐱 PhenoBench </a> |
 </h4>
 
 <!-- **Authors:** -->
 
-<em><strong>Cheng Liang<sup>1,2</sup>, Chaoyi Wu<sup>1,2</sup>, Weike Zhao<sup>1,2</sup>, Ya Zhang<sup>1,2</sup>, Yanfeng Wang<sup>1,2</sup>, Weidi Xie<sup>1,2</sup></strong></em>
+<em><strong>Cheng Liang<sup>1,2</sup>, Chaoyi Wu<sup>1</sup>, Weike Zhao<sup>1,2</sup>, Ya Zhang<sup>1,2</sup>, Yanfeng Wang<sup>1,2</sup>, Weidi Xie<sup>1,2</sup></strong></em>
 
 <em><sup>1</sup> Shanghai Jiao Tong University,
 <sup>2</sup> Shanghai AI Laboratory.</em>
