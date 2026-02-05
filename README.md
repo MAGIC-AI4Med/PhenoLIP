@@ -9,10 +9,11 @@ PhenoLIP: Integrating Phenotype Ontology Knowledge into Medical Vision–Languag
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
 <img src="https://img.shields.io/badge/License-Apache_2.0-green.svg" alt="License">
 
-<h4> |<a href="https://arxiv.org/pdf/2504.20930?"> 📑 Paper </a> |
-<a href="https://github.com/MAGIC-AI4Med/PhenoLIP"> 🐱 Github Repo </a> |
-<a href="https://www.modelscope.cn/models/lcsjtu/PhenoLIP"> 🐱 PhenoLIP </a> |
-  <a href="https://www.modelscope.cn/datasets/lcsjtu/PhenoBench"> 🐱 PhenoBench </a> |
+<h4> |<a href="https://magic-ai4med.github.io/phenolip-webpage/"> 🌐 Project Page </a> |
+<a href="https://arxiv.org/pdf/2504.20930?"> 📑 Paper </a> |
+<a href="https://github.com/MAGIC-AI4Med/PhenoLIP"> <img src="https://img.shields.io/badge/GitHub-black?logo=github" alt="GitHub"> Github Repo </a> |
+<a href="https://www.modelscope.cn/models/lcsjtu/PhenoLIP"> <img src="https://img.shields.io/badge/ModelScope-blue?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yIDdWMTdMMTIgMjJWMTJMMiA3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEyIDEyVjIyTDIyIDE3VjdMMTIgMTJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4=" alt="ModelScope"> PhenoLIP </a> |
+  <a href="https://www.modelscope.cn/datasets/lcsjtu/PhenoBench"> <img src="https://img.shields.io/badge/ModelScope-blue?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yIDdWMTdMMTIgMjJWMTJMMiA3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEyIDEyVjIyTDIyIDE3VjdMMTIgMTJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4=" alt="ModelScope"> PhenoBench </a> |
 </h4>
 
 <!-- **Authors:** -->
