@@ -28,6 +28,18 @@ PhenoLIP: Integrating Phenotype Ontology Knowledge into Medical Vision–Languag
 The official codes for "PhenoLIP: Integrating Phenotype Ontology Knowledge into Medical Vision–Language Pretraining".
 
 Note: We will make all the codes, data and model weights publicly available within one week.
+
+## Project Structure
+
+- **Alignment/**: Sub-figure level image-text alignment
+- **Augment/**: Sub-figure level caption augmentation
+- **Cls/**: Image classification
+- **Cluster/**: Data clustering
+- **Detection/**: Sub-figure detection
+- **Filter/**: Article filtering from PubMed
+- **OCR/**: Image content recognition
+- **eval/**: Benchmark construction and evaluation code
+
 ## Data Processing
 
 ### Environment
